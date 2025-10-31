@@ -1,7 +1,6 @@
-# Hi there, I'm Neha Bais Thakur! 👋
+## Hi there, I'm Neha!! 👋
   
 ### 🚀 Transforming Raw Data into Real-World Solutions 
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehabaisthakur)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehab1229@gmail.com)
@@ -10,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Data Engineer & Analytics Specialist** with 3.5+ years of experience building scalable data pipelines and deploying ML models that drive business impact. Currently pursuing my Master's in Applied Data Science at San Jose State University while serving as a Graduate Teaching Assistant for Machine Learning Technologies and Distributed Systems.
+I'm a **Data & ML Specialist** with 3.5+ years of experience building scalable data pipelines and deploying ML models that drive business impact. Currently pursuing my Master's in Applied Data Science at San Jose State University while serving as a Graduate Teaching Assistant for Machine Learning Technologies and Distributed Systems.
 
 - 🔭 I'm currently working on **Large Language Models** and **Chain-of-Thought Reasoning**
 - 🌱 I'm exploring **Explainable AI** and **Foundation Models**
@@ -199,18 +198,10 @@ _Machine Learning Technologies & Distributed Systems | Aug 2024 - Present_
 **📊 Data Engineer** | DXC Technology  
 _Built scalable ETL pipelines and ML solutions | Aug 2018 - Jan 2022_
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect! 💜
 
 I'm always excited to collaborate on innovative ML/AI projects, discuss data science trends, or explore opportunities that create real-world impact. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nehabaisthakur)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:nehab1229@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=github)](https://github.com/NehaBais)
 
 ---
 
 ### ⭐️ From [NehaBais](https://github.com/NehaBais) | *"From Raw Data to Real-World Results"* 🚀
-
-</div>
