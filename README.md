@@ -182,8 +182,8 @@ Jawaharlal Nehru Technological University | 2014 - 2018
 
 ## 📝 Recent Publications
 
-- **Performance and interpretability analysis of code generation large language models** - Research on explainability of LLMs in code conversion tasks
-- **Explainable Use of Foundation Models for Job Hiring** - Framework for transparent AI in recruitment
+- **Performance and interpretability analysis of code generation large language models** - Research on explainability of LLMs in code conversion tasks [link](https://doi.org/10.1016/j.neucom.2025.131461)
+- **Explainable Use of Foundation Models for Job Hiring** - Framework for transparent AI in recruitment [link](https://doi.org/10.3390/electronics14142787)
 
 ## 💼 Experience Highlights
 
