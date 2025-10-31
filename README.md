@@ -162,17 +162,6 @@ I'm a **Data & ML Specialist** with 3.5+ years of experience building scalable d
   </tr>
 </table>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NehaBais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaBais&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaBais&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 ## 🎓 Education & Certifications
 
 **🎓 Master of Science in Applied Data Science (Data Analytics)**  
@@ -180,6 +169,7 @@ San Jose State University | Aug 2023 - May 2025
 
 **🎓 Bachelor of Engineering in Information Technology**  
 Jawaharlal Nehru Technological University | 2014 - 2018
+
 
 **📜 Certifications:**
 - Women in Software Engineering (WISE) Program
@@ -197,6 +187,17 @@ _Machine Learning Technologies & Distributed Systems | Aug 2024 - Present_
 
 **📊 Data Engineer** | DXC Technology  
 _Built scalable ETL pipelines and ML solutions | Aug 2018 - Jan 2022_
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NehaBais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaBais&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaBais&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ## 🤝 Let's Connect! 💜
 
