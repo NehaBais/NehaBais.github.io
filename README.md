@@ -49,6 +49,13 @@ When I’m not coding or analyzing trends, I’m probably dancing to my favorite
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+## 📝 Recent Publications
+
+- **Performance and interpretability analysis of code generation large language models** - Research on explainability of LLMs in code conversion tasks [link](https://doi.org/10.1016/j.neucom.2025.131461)
+- **Explainable Use of Foundation Models for Job Hiring** - Framework for transparent AI in recruitment [link](https://doi.org/10.3390/electronics14142787)
+
+
 ## 🌟 Featured Projects
 
 ### 🤖 AI & Large Language Models
@@ -180,10 +187,6 @@ Jawaharlal Nehru Technological University | 2014 - 2018
 - Women in Software Engineering (WISE) Program
 - Programming for Everybody (Getting Started with Python)
 
-## 📝 Recent Publications
-
-- **Performance and interpretability analysis of code generation large language models** - Research on explainability of LLMs in code conversion tasks [link](https://doi.org/10.1016/j.neucom.2025.131461)
-- **Explainable Use of Foundation Models for Job Hiring** - Framework for transparent AI in recruitment [link](https://doi.org/10.3390/electronics14142787)
 
 ## 💼 Experience Highlights
 
