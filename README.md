@@ -3,13 +3,13 @@
 ### 🚀 Transforming Raw Data into Real-World Solutions 
 
 
-<div align="center">
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehabaisthakur)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehab1229@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NehaBais)
 
-</div>
+</p>
 
 ## 👩‍💻 About Me
 
