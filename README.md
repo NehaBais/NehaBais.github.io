@@ -15,13 +15,17 @@ I’ve spent 3+ years designing data pipelines, building ML models, and transfor
 
 When I’m not coding or analyzing trends, I’m probably dancing to my favorite tunes or training for my next run - because balance is everything. 💃☕💻
 
-- 🔭 I'm currently working on **Large Language Models** and **Chain-of-Thought Reasoning**
-- 🌱 I'm exploring **Explainable AI** and **Foundation Models**
-- 👯 I'm looking to collaborate on **ML/AI projects** that solve real-world problems
-- 💬 Ask me about **Data Engineering, ETL Pipelines, Machine Learning, Deep Learning**
-- 🎓 MS Applied Data Science @ SJSU
-- 💼 Ex-DXC Technology Data Engineer
-- ⚡ Fun fact: I've analyzed everything from fashion trends to Higgs Boson particles!
+🔭 I'm currently exploring **Explainable AI** and **Foundation Models**
+
+👯 I'm looking to collaborate on **ML/AI projects** that solve real-world problems
+
+💬 Ask me about **Data Engineering, ETL Pipelines, Machine Learning, Deep Learning**
+
+🎓 MS Applied Data Science @ SJSU
+
+💼 Ex-DXC Technology Data Engineer
+
+⚡ Fun fact: I've analyzed everything from fashion trends to Higgs Boson particles!
 
 ## 🛠️ Tech Stack
 
