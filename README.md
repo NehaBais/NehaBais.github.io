@@ -1,4 +1,4 @@
-<div style="position: absolute; top: 20px; right: 20px;">
+<div style="position: absolute; top: 20px; right: 40px;">
   <img src="me.JPG"
        alt="Neha Bais Thakur"
        width="150"
