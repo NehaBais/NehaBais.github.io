@@ -5,6 +5,8 @@
        style="border-radius: 40%; max-width: 25vw; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
 </div>
 
+<!-- <img src="me.JPG" alt="Neha" width="150" style="vertical-align:middle; border-radius:40%;">  -->
+
 ## Hi there, I'm Neha!! 👋
   
 ###  Transforming Raw Data into Real-World Solutions 
