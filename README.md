@@ -11,7 +11,7 @@
 
 Hey there! I’m Neha, a Data & ML Specialist who finds joy in uncovering stories hidden within data. ✨🌷
 
-I’ve spent 3.5+ years designing data pipelines, building ML models, and transforming raw data into meaningful insights. I recently earned my Master’s in Applied Data Science from San José State University, where I also served as a Graduate Teaching Assistant for Machine Learning and Distributed Systems.
+I’ve spent 3+ years designing data pipelines, building ML models, and transforming raw data into meaningful insights. I recently earned my Master’s in Applied Data Science from San José State University, where I also served as a Graduate Teaching Assistant for Machine Learning and Distributed Systems.
 
 When I’m not coding or analyzing trends, I’m probably dancing to my favorite tunes or training for my next run - because balance is everything. 💃☕💻
 
