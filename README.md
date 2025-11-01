@@ -1,5 +1,5 @@
 <div style="position: absolute; top: 20px; right: 20px;">
-  <img src="https://raw.githubusercontent.com/NehaBais/NehaBais.github.io/main/me.JPG"
+  <img src="me.JPG"
        alt="Neha Bais Thakur"
        width="150"
        style="border-radius: 50%; max-width: 25vw; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
